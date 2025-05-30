@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />

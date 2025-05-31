@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Engenharia de Software, apaixonada por tecnologia e movida por desafios!<br>Atualmente, estou focada em Cybersegurança, Teste e Controle de Software. Tenho domínio em linguagens como TypeScript, JavaScript, SQL, MySQL, PHP e React, e sigo expandindo meus horizontes expandido meus conhecimentos no universo da tecnologia.</p>
+<p align="left">Estudante de Engenharia de Software, apaixonada por tecnologia e movida por desafios!<br>Atualmente, estou focada em Cybersegurança, Teste e Controle de Software. Tenho domínio em linguagens como TypeScript, JavaScript, SQL, MySQL, PHP e React, e sigo expandido meus conhecimentos no universo da tecnologia.</p>
 
 ###
 

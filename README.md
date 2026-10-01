@@ -1,66 +1,39 @@
-<h2 align="left">Olá, eu sou a Sabrina! 👋</h2>
+## Oi, eu sou a Sabrina 👋
 
-###
+Estudo Engenharia de Software na UMC e sou estagiária de desenvolvimento na **Populis**, onde trabalho com React e TypeScript em uma plataforma de folha de pagamento e RH.
 
-<p align="left">Estudante de Engenharia de Software, apaixonada por tecnologia e movida por desafios!<br>Atualmente, estou focada em Cybersegurança, Teste e Controle de Software. Tenho domínio em linguagens como TypeScript, JavaScript, SQL, MySQL, PHP e React, e sigo expandido meus conhecimentos no universo da tecnologia.</p>
+Até aqui passei por front-end, back-end, mobile, testes e documentação. Quero continuar crescendo em tecnologia e ganhar experiência também em infraestrutura e IA.
 
-###
+Agora estou desenvolvendo o **CO2Bank**, um app que estima o CO2 de cada compra no cartão e usa IA para avisar antes de o usuário estourar o limite mensal.
 
-<h2 align="left">Minhas Skills</h2>
+🌐 **Portfólio:** [sabrinasiilva.github.io/Meu-Portifolio](https://sabrinasiilva.github.io/Meu-Portifolio/)
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-</div>
+### No trabalho
 
-###
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,git,bitbucket" height="40" alt="React, TypeScript, Tailwind CSS, JavaScript, Git, Bitbucket" />
 
-<h2 align="left">Estudando atualmente</h2>
+### Em projetos
 
-###
+<img src="https://skillicons.dev/icons?i=py,flask,java,dart,flutter,html,css,mysql,postgres,sqlite,firebase" height="40" alt="Python, Flask, Java, Dart, Flutter, HTML, CSS, MySQL, PostgreSQL, SQLite, Firebase" />
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
-</div>
+### Estudando
 
-###
+<img src="https://skillicons.dev/icons?i=spring,docker,jest" height="40" alt="Spring, Docker, Jest" />
 
-<h2 align="left">Contatos</h2>
+---
 
-###
+### Projetos em destaque
 
-<div align="left">
-  <a href="sabriacsilva09@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="+55 11 91025-9232" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://discord.gg/YfwGr8XK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="sabrinacsilva09@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+- **CO2Bank** _(em andamento)_: app em Flutter com API em Flask e alertas gerados por IA (Gemini). [Documentação da API](https://co2bank-flask.onrender.com/docs)
+- **[FinPro](https://github.com/sabrinasiilva/FinPro)**: controle financeiro full-stack com login, investimentos, gráficos e exportação para Excel. [Ver online](https://finpro-flo8.onrender.com)
+- **[Sistema de Mercado](https://github.com/sabrinasiilva/Sistema-Mercado)**: sistema web em Java com arquitetura MVC + DAO.
 
-###
+---
+
+### Contato
+
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinacsilva09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-silva-82a863237)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://sabrinasiilva.github.io/Meu-Portifolio/)

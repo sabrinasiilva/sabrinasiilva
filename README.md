@@ -34,6 +34,6 @@ Agora estou desenvolvendo o **CO2Bank**, um app que estima o CO2 de cada compra 
 
 ### Contato
 
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinacsilva09@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sabrinacsilva09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-silva-82a863237)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://sabrinasiilva.github.io/Meu-Portifolio/)

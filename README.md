@@ -10,9 +10,10 @@ Agora estou desenvolvendo o **CO2Bank**, um app que estima o CO2 de cada compra 
 
 ---
 
-### No trabalho
+### No dia a dia
 
 Workflows em BPMN · regras de negócio em JSON · APIs REST · Scrum e Kanban
+
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,git,bitbucket" height="40" alt="React, TypeScript, Tailwind CSS, JavaScript, Git, Bitbucket" />
 
 ### Em projetos
@@ -28,7 +29,7 @@ Workflows em BPMN · regras de negócio em JSON · APIs REST · Scrum e Kanban
 ### Projetos em destaque
 
 - **CO2Bank** _(em andamento)_: app em Flutter com API em Flask e alertas gerados por IA (Gemini). [Documentação da API](https://co2bank-flask.onrender.com/docs)
-- **[FinPro](https://github.com/sabrinasiilva/FinPro)**: controle financeiro full-stack com login, investimentos, gráficos e exportação para Excel. [Ver online](https://finpro-flo8.onrender.com)
+- **[FinPro](https://github.com/sabrinasiilva/FinPro)**: controle financeiro full-stack em Flask, com investimentos, gráficos, exportação para Excel e testes automatizados. [Ver online](https://finpro-flo8.onrender.com) (conta demo: `demo` / `demo123`)
 - **[Sistema de Mercado](https://github.com/sabrinasiilva/Sistema-Mercado)**: sistema web em Java com arquitetura MVC + DAO.
 
 ---

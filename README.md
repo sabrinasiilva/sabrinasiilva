@@ -12,6 +12,7 @@ Agora estou desenvolvendo o **CO2Bank**, um app que estima o CO2 de cada compra 
 
 ### No trabalho
 
+Workflows em BPMN · regras de negócio em JSON · APIs REST · Scrum e Kanban
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,git,bitbucket" height="40" alt="React, TypeScript, Tailwind CSS, JavaScript, Git, Bitbucket" />
 
 ### Em projetos
